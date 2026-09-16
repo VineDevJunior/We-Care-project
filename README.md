@@ -56,7 +56,7 @@ Acesse a pasta do projeto e abra o arquivo index.html em qualquer navegador:
 $ cd petcare-landing-page
 ```
 
-🫡 Issues
+### 🫡 Issues
 Sinta-se à vontade para abrir uma nova issue com título e descrição no repositório do Pet Care. Se você já encontrou uma solução para o problema ou quer sugerir melhorias, ficarei muito feliz em revisar o seu pull request!
 
 📝 Licença
