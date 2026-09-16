@@ -61,3 +61,5 @@ Sinta-se à vontade para abrir uma nova issue com título e descrição no repos
 
 📝 Licença
 Este projeto está sob a licença MIT.
+
+Feito com ♥ por VineDevJúnior 👋 Entre em contato!
