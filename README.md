@@ -17,7 +17,8 @@ Este projeto foi desenvolvido como um dos meus primeiros exercícios práticos n
 ## 📸 Prévia
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Prévia da Landing Page Pet Care" width="700px"/>
+   <img width="422" height="951" alt="Screenshot 2026-09-16 135520" src="https://github.com/user-attachments/assets/0b1ff005-bb46-43bc-9371-df08e7113d87" />
+  <img width="1917" height="952" alt="Screenshot 2026-09-16 135506" src="https://github.com/user-attachments/assets/d10fd9af-1b34-408e-beb0-96d633984677" />
 </p>
 
 ---
